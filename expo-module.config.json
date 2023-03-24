@@ -1,0 +1,9 @@
+{
+  "platforms": ["ios", "android", "web"],
+  "ios": {
+    "modules": ["LexicalModule"]
+  },
+  "android": {
+    "modules": ["expo.modules.lexical.LexicalModule"]
+  }
+}
