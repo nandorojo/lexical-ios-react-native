@@ -3,8 +3,8 @@
   "compilerOptions": {
     "strict": true,
     "paths": {
-      "lexical": ["../src/index"],
-      "lexical/*": ["../src/*"]
+      "lexical-expo": ["../src/index"],
+      "lexical-expo/*": ["../src/*"]
     }
   }
 }
